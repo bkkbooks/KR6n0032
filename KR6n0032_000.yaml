@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0032/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論演祕
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T43/T43n1833.xml
+    old_id: T43n1833
+hash: sha256:83d8fa4af63f8fa6ccd944ec8b8e4a02898a4bbdb9dea0851a94e89971b6061f

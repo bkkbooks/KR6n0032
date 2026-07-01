@@ -1,0 +1,314 @@
+canonical_identifier: bkk:krp/KR6n0032/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0032/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論演祕
+  identifiers:
+    krp: KR6n0032
+    cbeta: T43n1833
+    cbeta_old_id: T43n1833
+    authorityid: CA0000466
+    json_key: T1833
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T43/T43n1833.xml
+    old_id: T43n1833
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0032_000-T.yaml, hash: 'sha256:83d8fa4af63f8fa6ccd944ec8b8e4a02898a4bbdb9dea0851a94e89971b6061f'}
+  - {seq: 2, filename: KR6n0032_002-T.yaml, hash: 'sha256:16f6edfc5c2c9be0c5324776acd55550cf5609a94b9f6210e1b2888b6224a651'}
+  - {seq: 3, filename: KR6n0032_003-T.yaml, hash: 'sha256:a4552277d3ec47009ba197f5a128e93b303c32da824db1c8b3a5d77a2278b137'}
+  - {seq: 4, filename: KR6n0032_004-T.yaml, hash: 'sha256:f6c53d791cf881abbad9250da1cf60927154d0217685210730f4dd1ef9cd1df4'}
+  - {seq: 5, filename: KR6n0032_005-T.yaml, hash: 'sha256:81a6eb38ead4db88e0698535b35175e531e0ba2b62af512383bd9e2066c7968b'}
+  - {seq: 6, filename: KR6n0032_006-T.yaml, hash: 'sha256:05472725b8c6920391fbf1d68d65660d718929323140fbfce5a32cc89d026f04'}
+  - {seq: 7, filename: KR6n0032_007-T.yaml, hash: 'sha256:1e4d6ab1f85a6a5177949f8c7d811ee40395387f90b8f487cb8cd9191bbf807e'}
+  - {seq: 8, filename: KR6n0032_008-T.yaml, hash: 'sha256:0c782b50eff33f1da6214014ef87300f1e513778d1ed1f92dc85fd454e810d32'}
+  - {seq: 9, filename: KR6n0032_009-T.yaml, hash: 'sha256:5cb003a330a9d2a77cfc579e51073a0222b7da6ada1bc2273fdadb9ac6ab4dd4'}
+  - {seq: 10, filename: KR6n0032_010-T.yaml, hash: 'sha256:6c946cde641147a43221af2cc830939cea335e04f8062a70ebbc75e05f0ff110'}
+  - {seq: 11, filename: KR6n0032_011-T.yaml, hash: 'sha256:99894f7664b1d7323da5ce2433e6bff613ad9a0d19b81b8f007cdc217c5db9cd'}
+  - {seq: 12, filename: KR6n0032_012-T.yaml, hash: 'sha256:6034ed1dff4fffc5615aebc0736d8b163a2baefefd0be993318aa41e6b0011ab'}
+  - {seq: 13, filename: KR6n0032_013-T.yaml, hash: 'sha256:dd0a536705719e2d703647e4421a171573f25b57a6349a6fcad636dd3a61894f'}
+  - {seq: 14, filename: KR6n0032_014-T.yaml, hash: 'sha256:f77d52077c77c3ed7ea9a3ce4232224917191f110e06ab87397d5f1c2c99fd52'}
+  - {seq: 15, filename: KR6n0032_015-T.yaml, hash: 'sha256:14019e97a818f4ae904b0c35feeb5aaedd6f55ad4a3e409f13f9fdf9852615da'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0032_000-T.markers.yaml, hash: 'sha256:88798c3c42133c284ea4a433d956c7f03a3ecbe84a03f4800530dc6ec3cfac53'}
+  - {seq: 2, role: markers, filename: assets/KR6n0032_002-T.markers.yaml, hash: 'sha256:06ce98b5fe02ab7d6d5e638bdd8c7402429cd0d2250b7d614c313e4efac5be39'}
+  - {seq: 3, role: markers, filename: assets/KR6n0032_003-T.markers.yaml, hash: 'sha256:dadbd7268bd90602220073491aae149a19465e35b1c72ca48e7b1f1d03e6e722'}
+  - {seq: 4, role: markers, filename: assets/KR6n0032_004-T.markers.yaml, hash: 'sha256:86d7a027074bbb4506aa0c972919290657a261ad8f881bb56c4df4f3c2190a9b'}
+  - {seq: 5, role: markers, filename: assets/KR6n0032_005-T.markers.yaml, hash: 'sha256:c12338dfbbddaa3bef247c0f52816d28d7f5558707bdf131e1f1cfc851f84797'}
+  - {seq: 6, role: markers, filename: assets/KR6n0032_006-T.markers.yaml, hash: 'sha256:8a8d2696b8fb2b989ba572325241940a1851413e9049b86465401e8b25a90cb9'}
+  - {seq: 7, role: markers, filename: assets/KR6n0032_007-T.markers.yaml, hash: 'sha256:cb7d21a9769cb8df97551b8830d1e618cfdc39942b3b80f1eb983b0c6347a562'}
+  - {seq: 8, role: markers, filename: assets/KR6n0032_008-T.markers.yaml, hash: 'sha256:30a5e5930e77e4d8b75fd1c7dcc006f47ed0e005f351da20bee744984f200185'}
+  - {seq: 9, role: markers, filename: assets/KR6n0032_009-T.markers.yaml, hash: 'sha256:d58329dc41a4c3770ad69c54b2f963c5e648c567c4d7ec7781bf2df7bbd1d396'}
+  - {seq: 10, role: markers, filename: assets/KR6n0032_010-T.markers.yaml, hash: 'sha256:453e0b636d2108f360c395a153fae876cb6e811416fbad891adf1b9e52457ff6'}
+  - {seq: 11, role: markers, filename: assets/KR6n0032_011-T.markers.yaml, hash: 'sha256:191b229a358c54e05694711bdd66e48f1c6c92e6e1e119b4a8d410b767d0b637'}
+  - {seq: 12, role: markers, filename: assets/KR6n0032_012-T.markers.yaml, hash: 'sha256:83fbcfeefdb70f9526f66106b63f13671ec0c0cad0f1f292105ef246a680cc79'}
+  - {seq: 13, role: markers, filename: assets/KR6n0032_013-T.markers.yaml, hash: 'sha256:ed8deea47a199a79757b5eade9415bb4f842265625b9f0804af969ba4a5e829f'}
+  - {seq: 14, role: markers, filename: assets/KR6n0032_014-T.markers.yaml, hash: 'sha256:29f0dd0fbdd140d42722f2c2d550e9d95b948948db8ecb80b733f6ad4f3563f9'}
+  - {seq: 15, role: markers, filename: assets/KR6n0032_015-T.markers.yaml, hash: 'sha256:62459e791a17e0688a2b0e20310592b0c65d20e7a2183e76c769d25211850049'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6n0032_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 17402
+  label: 成唯識論演祕卷第一本
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0032_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 12221
+  label: 成唯識論演祕卷第一末
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0032_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 18311
+  label: 成唯識論演祕卷第二本疏第二
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0032_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 15880
+  label: 成唯識論演祕卷第二末論第二
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0032_T_003a-juan-start
+    span:
+    - body
+    - 0
+    - 12669
+  label: 成唯識論演祕卷第三本
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0032_T_003b-juan-start
+    span:
+    - body
+    - 0
+    - 19311
+  label: 成唯識論演祕卷第三末論本第三
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0032_T_003b-mulu-1
+    span:
+    - body
+    - 7117
+    - 7117
+  label: 4 疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0032_T_003b-mulu-2
+    span:
+    - body
+    - 7117
+    - 7117
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0032_T_004a-juan-start
+    span:
+    - body
+    - 0
+    - 12217
+  label: 成唯識論演祕卷第四本
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0032_T_004b-juan-start
+    span:
+    - body
+    - 0
+    - 16884
+  label: 成唯識論演祕卷第四末
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0032_T_004b-mulu-1
+    span:
+    - body
+    - 7102
+    - 7102
+  label: 5 論
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0032_T_004b-mulu-2
+    span:
+    - body
+    - 7102
+    - 7102
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0032_T_005a-juan-start
+    span:
+    - body
+    - 0
+    - 14446
+  label: 成唯識論演祕卷第五本
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0032_T_005a-mulu-1
+    span:
+    - body
+    - 3821
+    - 3821
+  label: 6 疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0032_T_005a-mulu-2
+    span:
+    - body
+    - 5800
+    - 5800
+  label: 6 論
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6n0032_T_005b-juan-start
+    span:
+    - body
+    - 0
+    - 11557
+  label: 成唯識論演祕卷第五末
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6n0032_T_005b-mulu-1
+    span:
+    - body
+    - 8362
+    - 8362
+  label: 7 疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6n0032_T_005b-mulu-2
+    span:
+    - body
+    - 8362
+    - 8362
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0032_T_006a-juan-start
+    span:
+    - body
+    - 0
+    - 12125
+  label: 成唯識論演祕卷第六疏第七餘
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0032_T_006a-mulu-1
+    span:
+    - body
+    - 12122
+    - 12122
+  label: 8 疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0032_T_006a-mulu-2
+    span:
+    - body
+    - 12122
+    - 12122
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6n0032_T_006b-juan-start
+    span:
+    - body
+    - 0
+    - 16049
+  label: 成唯識論演祕卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6n0032_T_007a-juan-start
+    span:
+    - body
+    - 0
+    - 20094
+  label: 成唯識論演祕卷第七本
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6n0032_T_007a-mulu-1
+    span:
+    - body
+    - 9958
+    - 9958
+  label: 9 論
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6n0032_T_007b-juan-start
+    span:
+    - body
+    - 0
+    - 16718
+  label: 成唯識論演祕卷第七末
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6n0032_T_007b-mulu-1
+    span:
+    - body
+    - 10545
+    - 10545
+  label: 10 論
+  type: mulu
+  level: 1
+hash: sha256:8ffb2b6293e7c5e9cd45624e158b99b97f252badae9d2ed3ade9c7271cfc9f11
